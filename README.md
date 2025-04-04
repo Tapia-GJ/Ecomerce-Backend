@@ -132,9 +132,8 @@ _(Agrega aquí imágenes si quieres mostrar tu app)_
 
 ## 🤝 Autor
 
-Desarrollado por **[Tu Nombre / Usuario de GitHub]**
-
+Desarrollado por **Luis Tapia / Tapia-GJ**
 - 💼 Proyecto universitario / personal
-- 🌐 Contacto: tu@email.com
+- 🌐 Contacto: luivstapia285@gmail.com
 
 ---
